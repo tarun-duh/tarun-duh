@@ -12,8 +12,7 @@ i'm a web designer who wants to become a web developer so i'm gonna start web de
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: tarunsdhanak@gmail.com
-- +91 9899974712
-- 12cha34cha@gmail.com
+- 
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
