@@ -16,3 +16,13 @@ i'm a web designer who wants to become a web developer so i'm gonna start web de
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
+## ✨ Stats
+
+<div>
+    <a href="https://github.com/tarun-duh">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarun-duh&show_icons=true&theme=radical"">  
+</a> 
+<a href="https://github.com/tarun-duh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun-duh&layout=compact&show_icons=true&theme=radical" />
+</a> 
+</div>
