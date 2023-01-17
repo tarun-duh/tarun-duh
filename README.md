@@ -5,6 +5,7 @@
 
 hello there !
 i'm a web designer who wants to become a web developer so i'm gonna start web development from today and try my best to get a job even an internship for webdevlopment.
+date-01012023
 
 <!-- - 🔭 I’m currently working on a new project just with pure css and html... -->
 - 🌱 I’m currently learning web development  
