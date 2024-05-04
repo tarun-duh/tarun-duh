@@ -1,9 +1,8 @@
 # 💫 About Me:
 Tarun Singh | Front-End Developer
 
-As a front-end developer, I specialize in creating visually appealing and user-friendly interfaces using my knowledge of HTML, JavaScript, React, and CSS. With 7 months of experience in web design using Duda Builder, I have successfully managed multiple projects from start to finish, collaborating with clients to deliver websites that meet their needs.
+Hey there! 👋 I'm Tarun Singh Dhanak, a web front-end developer proficient in HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, and more. Although my internship initially involved CMS-based site building, I've since shifted my focus to front-end development.
 
-I am passionate about staying up-to-date with the latest trends and techniques in front-end development and strive to incorporate them into my work. If you're looking for a dedicated front-end developer to bring your web design project to life, I would love to connect and discuss how I can help you achieve your goals.
 
 
 <br><br>🌱 I’m currently learning web development<br>📫 How to reach me: tarunsdhanak@gmail.com<br>
