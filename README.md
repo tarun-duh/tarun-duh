@@ -1,7 +1,7 @@
 # 💫 About Me:
-Tarun Singh | Front-End Developer
+Tarun Singh  | Data Analyst
 
-Hey there! 👋 I'm Tarun Singh Dhanak, a web front-end developer proficient in HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, and more. Although my internship initially involved CMS-based site building, I've since shifted my focus to front-end development.
+Hey there! 👋 I'm Tarun Singh Dhanak, a Data Analyst/front-end developer proficient in Python, MS Excel, SQL, Tableau, Power BI,  HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, and more. Although my internship initially involved Website building, I've since shifted my focus to Data Analytics.
 
 
 
